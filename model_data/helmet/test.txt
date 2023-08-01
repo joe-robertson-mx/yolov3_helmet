@@ -1,0 +1,7 @@
+./data/20.jpg
+./data/37.jpg
+./data/57.jpg
+./data/69.jpg
+./data/81.jpg
+./data/94.jpg
+./data/two.jpg
